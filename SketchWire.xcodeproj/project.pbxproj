@@ -17,6 +17,7 @@
 		0B9F97E42930E4AC00D4FAAB /* SketchWireTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B9F97E32930E4AC00D4FAAB /* SketchWireTests.m */; };
 		0B9F97EE2930E4AC00D4FAAB /* SketchWireUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B9F97ED2930E4AC00D4FAAB /* SketchWireUITests.m */; };
 		0B9F97F02930E4AC00D4FAAB /* SketchWireUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B9F97EF2930E4AC00D4FAAB /* SketchWireUITestsLaunchTests.m */; };
+		8282E7952934B5CB008A7E0B /* SignUpVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 8282E7942934B5CB008A7E0B /* SignUpVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		0B9F97E92930E4AC00D4FAAB /* SketchWireUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SketchWireUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B9F97ED2930E4AC00D4FAAB /* SketchWireUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SketchWireUITests.m; sourceTree = "<group>"; };
 		0B9F97EF2930E4AC00D4FAAB /* SketchWireUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SketchWireUITestsLaunchTests.m; sourceTree = "<group>"; };
+		8282E7932934B5CB008A7E0B /* SignUpVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SignUpVC.h; sourceTree = "<group>"; };
+		8282E7942934B5CB008A7E0B /* SignUpVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SignUpVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				0B9F97D52930E4AC00D4FAAB /* LaunchScreen.storyboard */,
 				0B9F97D82930E4AC00D4FAAB /* Info.plist */,
 				0B9F97D92930E4AC00D4FAAB /* main.m */,
+				8282E7932934B5CB008A7E0B /* SignUpVC.h */,
+				8282E7942934B5CB008A7E0B /* SignUpVC.m */,
 			);
 			path = SketchWire;
 			sourceTree = "<group>";
@@ -268,6 +273,7 @@
 			files = (
 				0B9F97CF2930E4AA00D4FAAB /* ViewController.m in Sources */,
 				0B9F97C92930E4AA00D4FAAB /* AppDelegate.m in Sources */,
+				8282E7952934B5CB008A7E0B /* SignUpVC.m in Sources */,
 				0B9F97DA2930E4AC00D4FAAB /* main.m in Sources */,
 				0B9F97CC2930E4AA00D4FAAB /* SceneDelegate.m in Sources */,
 			);
